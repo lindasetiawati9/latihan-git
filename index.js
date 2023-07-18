@@ -1,1 +1,1 @@
-console.log("Hello linda");
+console.log("hai lindase");
