@@ -1,1 +1,1 @@
-console.log("nama : Lindase");
+console.log("nama : Linda setiawati");
