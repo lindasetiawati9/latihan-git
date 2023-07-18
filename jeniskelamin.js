@@ -1,1 +1,1 @@
-console.log("cewe");
+console.log("perempuan");
