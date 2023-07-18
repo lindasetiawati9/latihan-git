@@ -1,1 +1,1 @@
-console.log("menyanyi");
+console.log("mendengarkan musik");
